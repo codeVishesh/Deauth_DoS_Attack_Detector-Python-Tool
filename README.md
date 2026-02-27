@@ -61,7 +61,7 @@ Received 2 packets, got 1 answers, remaining 0 packets
 The [documentation](https://scapy.readthedocs.io/en/latest/) contains more
 advanced use cases, and examples.
 
-Other useful resources:
+Other useful resources - 
 
 -   [Scapy in 20 minutes](https://github.com/secdev/scapy/blob/master/doc/notebooks/Scapy%20in%2015%20minutes.ipynb)
 -   [Interactive tutorial](https://scapy.readthedocs.io/en/latest/usage.html#interactive-tutorial) (part of the documentation)
